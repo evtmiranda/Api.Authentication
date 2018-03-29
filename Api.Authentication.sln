@@ -5,9 +5,9 @@ VisualStudioVersion = 15.0.27428.2015
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Authentication.Api", "Api.Authentication.Api\Api.Authentication.Api.csproj", "{E6AC5EC3-05AC-4BD7-BC72-548ED98C7B72}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Authentication.Domain", "Api.Authentication.Domain\Api.Authentication.Domain.csproj", "{77248DB6-28A6-458F-BD04-8AD35016BEFB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Authentication.Domain", "Api.Authentication.Domain\Api.Authentication.Domain.csproj", "{77248DB6-28A6-458F-BD04-8AD35016BEFB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api.Authentication.Infra", "Api.Authentication.Infra\Api.Authentication.Infra.csproj", "{961EE7F7-8EEB-4859-9B1D-E54CA453AC18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Api.Authentication.Infra", "Api.Authentication.Infra\Api.Authentication.Infra.csproj", "{961EE7F7-8EEB-4859-9B1D-E54CA453AC18}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
