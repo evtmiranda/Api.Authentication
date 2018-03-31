@@ -8,6 +8,9 @@ namespace Api.Authentication.Infra.Repositories
     {
         public async Task<User> Get(string email, string password)
         {
+            if (email != "admin")
+                return null;
+
             return new User();
         }
     }
